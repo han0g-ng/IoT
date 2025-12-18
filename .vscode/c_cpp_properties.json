@@ -1,0 +1,40 @@
+{
+    "configurations": [
+        {
+            "name": "PlatformIO",
+            "includePath": [
+                "${workspaceFolder}/esp32_firmware/include",
+                "${workspaceFolder}/esp32_firmware/src",
+                "${workspaceFolder}/esp32_firmware/.pio/libdeps/esp32dev/**",
+                "C:/Users/ssssss/.platformio/packages/framework-arduinoespressif32/cores/esp32",
+                "C:/Users/ssssss/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/**",
+                "C:/Users/ssssss/.platformio/packages/framework-arduinoespressif32/libraries/**",
+                "C:/Users/ssssss/.platformio/packages/toolchain-xtensa-esp32/xtensa-esp32-elf/include/**"
+            ],
+            "defines": [
+                "PLATFORMIO=60113",
+                "ESP32",
+                "ARDUINO_ARCH_ESP32",
+                "ARDUINO_VARIANT=\"esp32\"",
+                "ESP_PLATFORM",
+                "CORE_DEBUG_LEVEL=3"
+            ],
+            "compilerPath": "C:/Users/ssssss/.platformio/packages/toolchain-xtensa-esp32/bin/xtensa-esp32-elf-gcc.exe",
+            "cStandard": "c11",
+            "cppStandard": "c++11",
+            "intelliSenseMode": "gcc-x86",
+            "compilerArgs": [
+                "-mlongcalls",
+                "-Wno-frame-address"
+            ],
+            "browse": {
+                "path": [
+                    "${workspaceFolder}/esp32_firmware",
+                    "C:/Users/ssssss/.platformio/packages"
+                ],
+                "limitSymbolsToIncludedHeaders": true
+            }
+        }
+    ],
+    "version": 4
+}

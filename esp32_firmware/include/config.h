@@ -16,15 +16,15 @@
 // ============================================================================
 // DEVICE IDENTIFICATION
 // ============================================================================
-#define DEVICE_ID           "power_monitor_01"
+#define DEVICE_ID           "anh_hong_dep_trai_ittn"
 #define DEVICE_NAME         "ESP32 Power Monitor"
 #define FIRMWARE_VERSION    "1.0.0"
 
 // ============================================================================
 // WIFI CONFIGURATION
 // ============================================================================
-#define WIFI_SSID           "YOUR_WIFI_SSID"        // Thay đổi thành tên WiFi của bạn
-#define WIFI_PASSWORD       "YOUR_WIFI_PASSWORD"    // Thay đổi thành mật khẩu WiFi
+#define WIFI_SSID           "B2306"        // Thay đổi thành tên WiFi của bạn
+#define WIFI_PASSWORD       "Abc@2306"    // Thay đổi thành mật khẩu WiFi
 #define WIFI_CONNECT_TIMEOUT 20000                  // Timeout kết nối WiFi (ms)
 #define WIFI_RECONNECT_INTERVAL 5000                // Khoảng thời gian thử kết nối lại (ms)
 
