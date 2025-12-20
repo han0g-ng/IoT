@@ -5,8 +5,8 @@
 .vscode/ipch
 
 # Python test/debug scripts
-find_esp32.py
-monitor.ps1
-mqtt_monitor.py
-read_serial.py
-test_mqtt_send.py
+# find_esp32.py
+# monitor.ps1
+# mqtt_monitor.py
+# read_serial.py
+# test_mqtt_send.py

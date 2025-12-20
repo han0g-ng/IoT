@@ -118,8 +118,8 @@
 #define OVERCURRENT_DURATION    100     // Duration before triggering protection (ms)
 
 // Channel Names (for display purposes)
-#define CHANNEL_1_NAME          "Đèn"
-#define CHANNEL_2_NAME          "Quạt"
+#define CHANNEL_1_NAME          "Đèn 1"
+#define CHANNEL_2_NAME          "Đèn 2"
 
 // ============================================================================
 // DEBUG CONFIGURATION
